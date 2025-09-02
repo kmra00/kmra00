@@ -61,7 +61,7 @@ Soy un profesional especializado en automatización de pruebas de software con e
 
 ¡Estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme a través de:
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kevin-moreno-950660331/))
+- 💼 LinkedIn: https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kevin-moreno-950660331
 
 
 
