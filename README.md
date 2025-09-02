@@ -53,9 +53,9 @@ Soy un profesional especializado en automatización de pruebas de software con e
 - Mejora del rendimiento en un 40%
 
 ## 🎓 Certificaciones
-- ISTQB Certified Tester - Foundation Level
-- ISTQB Certified Tester - Advanced Level Test Automation Engineer
-- Scrum Foundation Professional Certificate
+-Curso Java Springboot
+-Curso Cyberseguridad
+
 
 ## 📫 Contacto
 
