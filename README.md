@@ -72,10 +72,10 @@ _CFT Inacap Valparaíso (2015-2017)_
 ## 📊 Proyectos Destacados
 
 ### Destaco 3 proyectos 
-###1-Proyecto con BDD CLINICA 
+1-[Proyecto con BDD CLINICA](https://github.com/kmra00/clinicabdd) 
 Proyecto de Automatización de Pruebas Clínicas con Cucumber + Selenium Este proyecto implementa un framework de automatización de pruebas para un sistema de gestión clínica utilizando Behavior-Driven Development (BDD) con Cucumber, Selenium WebDriver y Java. Incluye la validación de flujos críticos como inicio de sesión, registro de fichas médicas y validación de reglas de negocio.
-###2-PROYECTO SELENIUM CON JAVA DE BANCA FICTICIA 
-###3-[proyecto validador : Uso de maven test](https://github.com/kmra00/validator-test)
+2-[PROYECTO SELENIUM CON JAVA DE BANCA FICTICIA](https://github.com/kmra00/bancatest)
+3-[proyecto validador : Uso de maven test](https://github.com/kmra00/validator-test)
 
 ### Framework de Automatización con Selenium
 - Desarrollo de framework personalizado para Testing Grupo HDI
