@@ -93,4 +93,4 @@ _CFT Inacap Valparaíso (2015-2017)_
 
 ---
 
-⭐️ *"La calidad es hacer las cosas bien cuando nadie está mirando" - Henry Ford* ⭐️
+⭐️ "La clave del éxito es enfocarse en objetivos, no en obstáculos. La calidad se logra cuando el estándar se convierte en un hábito." - Brian Tracy
