@@ -1,68 +1,99 @@
-# Perfil de Automatización de Pruebas de Software
+# Kevin Alan Moreno Román - Especialista en QA Automation
 
-![QA Automation Banner](https://img.shields.io/badge/QA-Automation-blue)
-![Testing](https://img.shields.io/badge/Testing-Expert-green)
+![QA Automation](https://img.shields.io/badge/QA-Automation_Expert-blue)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-orange)
+![JMeter](https://img.shields.io/badge/JMeter-Performance_Testing-red)
+![Agile](https://img.shields.io/badge/Agile-Scrum-green)
 
-## 👋 Acerca de mí
+## 👋 Acerca de Mí
 
-Soy un profesional especializado en automatización de pruebas de software con experiencia en el diseño, implementación y ejecución de soluciones de pruebas automatizadas. Mi objetivo es garantizar la calidad del software mediante la implementación de estrategias de pruebas efectivas utilizando las mejores prácticas y tecnologías modernas.
+Soy **Analista Programador** titulado con más de 3 años de experiencia especializada en **automatización de pruebas de software**. Mi trayectoria incluye roles en importantes organizaciones como **Tesorería General de la República** y **Equifax**, donde he implementado soluciones de testing automatizado que garantizan la calidad del software.
 
-## 🛠️ Habilidades técnicas
+Mi enfoque combina conocimientos técnicos sólidos en automatización con experiencia práctica en metodologías ágiles, soporte técnico y seguridad informática.
 
-### Frameworks y Herramientas de Automatización
-- **Selenium WebDriver** - Automatización de pruebas UI en navegadores web
-- **Cucumber** - Framework BDD para especificación ejecutable
-- **Gherkin** - Lenguaje de especificación para definir pruebas en lenguaje natural
-- **JMeter** - Pruebas de rendimiento y carga
-- **RestAssured** - Automatización de pruebas de API REST
-- **Postman/Newman** - Desarrollo y automatización de pruebas de API
-- **JUnit** - Framework para pruebas unitarias en Java
+## 💼 Experiencia Profesional Destacada
 
-### Lenguajes de Programación
-- **Java** - Principal lenguaje para automatización de pruebas
-- **JavaScript** - Para pruebas web y APIs
+### 🔬 Analista QA Automatizador
+**Equifax (Kibernum)** | *Nov 2019 - Mar 2020*
+- Automatización de pruebas de rendimiento para migración de bases de datos
+- Implementación de estrategias de testing con JMeter, Postman y Jira (Zephyr)
+- Trabajo en entorno Agile/Scrum
+
+### 📊 Analista QA Funcional  
+**Tesorería General de la República** | *Ago 2021 - Mar 2022*
+- Ejecución de pruebas funcionales utilizando SoapUI, Trello y Excel
+- Participación activa en proyectos bajo metodología Scrum
+
+### 🛠️ Soporte Informático
+**Corporación de Asistencia Judicial Valparaíso** | *Ene 2024 - Mar 2024*
+- Soporte técnico presencial y remoto a usuarios
+- Gestión y resolución de incidentes informáticos
+
+## 🛠️ Stack Tecnológico
+
+### **Automatización de Pruebas**
+- **Frameworks:** Selenium WebDriver, JMeter, SoapUI
+- **Herramientas:** Postman, Jira, Zephyr, Trello
+- **Metodologías:** Agile/Scrum, Testing Tradicional
+
+### **Lenguajes de Programación**
+- **Java** (Principal) - Desarrollo de frameworks de automatización
+- **.NET/C#** - Desarrollo de aplicaciones
 - **SQL** - Consultas y validación de datos
 
-### Metodologías y Enfoques
-- **BDD (Behavior Driven Development)** - Desarrollo guiado por comportamiento
-- **TDD (Test Driven Development)** - Desarrollo guiado por pruebas
-- **Pruebas Unitarias** - Verificación de unidades individuales de código
-- **Pruebas de Integración** - Validación de la correcta interacción entre componentes
-- **Pruebas de Regresión** - Asegurar que las nuevas funcionalidades no afectan las existentes
+### **Habilidades Complementarias**
+- Planificación y estimación de pruebas
+- Soporte técnico presencial y remoto
+- Excel avanzado para análisis de datos
+- Fundamentos de ciberseguridad
 
-### DevOps y CI/CD
-- **Jenkins** - Automatización de pipelines de CI/CD
-- **Git/GitHub** - Control de versiones y colaboración
-- **Docker** - Contenedores para entornos de prueba consistentes
+## 📚 Formación y Certificaciones
 
-## 📊 Proyectos destacados
+### **Educación Formal**
+- **Técnico Analista Programador** - CFT Inacap Valparaíso (2015-2017)
 
-### Sistema de Automatización E2E para Aplicación Web
-- Implementación de framework de pruebas basado en Selenium, Cucumber y Java
-- Reducción del tiempo de ejecución de pruebas en un 70%
-- Integración con Jenkins para ejecución continua
+### **Certificaciones Recientes**
+- 🎯 **Curso de Automatización de Pruebas** - Kibernum Academy (En curso)
+- 🔒 **Fundamentos de Ciberseguridad** - Devsafio Latam (2024)
+- 💻 **Desarrollo de Aplicaciones Full Stack Java Trainee** - SENCE UNAB (480 hrs)
+- 🛡️ **Curso OS10 - Seguridad Privada** (Vigente 2024)
 
-### Suite de Pruebas de API REST
-- Desarrollo de pruebas automatizadas con RestAssured y Postman/Newman
-- Implementación de validaciones de esquema JSON
-- Automatización de casos de prueba para microservicios
+## 📈 Proyectos Destacados
 
-### Pruebas de Rendimiento para Aplicación de Alta Demanda
-- Diseño de escenarios de carga con JMeter
-- Identificación y resolución de cuellos de botella
-- Mejora del rendimiento en un 40%
+### **Framework de Automatización Personalizado**
+- Desarrollo de framework a medida con Selenium WebDriver para Testing Grupo HDI
+- Implementación de arquitectura modular y reusable
+- Reducción de tiempo de ejecución de pruebas en más del 60%
 
-## 🎓 Certificaciones
--Curso Java Springboot
--Curso Cyberseguridad
+### **Suite de Pruebas de Rendimiento**
+- Automatización de pruebas de carga para migración de BD en Equifax
+- Diseño de escenarios con JMeter para validar estabilidad del sistema
+- Identificación y documentación de cuellos de botella
 
+### **Sistema de Monitoreo y Reportes**
+- Implementación de botón de emergencia y sistema de reportes para E.F.E.
+- Generación automatizada de informes de puesta en marcha
 
-## 📫 Contacto
+## 🌟 Valor Diferenciador
 
-¡Estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme a través de:
+Mi experiencia combinada en **automatización de pruebas**, **soporte técnico** y **seguridad** me permite abordar los desafíos de calidad de software desde una perspectiva integral, considerando no solo la funcionalidad sino también la usabilidad, rendimiento y seguridad de las aplicaciones.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kevin-moreno-950660331
+## 📫 Contáctame
 
+¡Estoy abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
 
+- 📧 **Email:** kevinmoroa@gmail.com
+- 📱 **Teléfono:** +56 9 6235 4824
+- 💼 **LinkedIn:** [Kevin Moreno](https://www.linkedin.com/in/kevin-moreno-950660331)
+- 📍 **Ubicación:** Valparaíso, Chile
 
-⭐️ *Si encuentras útil alguno de mis repositorios, ¡no dudes en darle una estrella!* ⭐️
+## 🔄 Próximos Objetivos
+
+Actualmente me encuentro fortaleciendo mis habilidades en:
+- Automatización avanzada de pruebas con las últimas tecnologías
+- Deep learning aplicado a testing predictivo
+- Optimización de procesos CI/CD
+
+---
+
+⭐️ *"La calidad nunca es un accidente; siempre es el resultado de un esfuerzo inteligente" - John Ruskin* ⭐️
